@@ -54,15 +54,11 @@ Data Science and AI
 
 ### 📈 GitHub Stats
 
-![Richie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richie-harry&show_icons=true&theme=radical&count_private=true)
+![Richie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richie-harry&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Richie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richie-harry&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richie-harry&layout=compact&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richie-harry&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=richie-harry&theme=radical)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=richie-harry&style=flat-square&color=blue)
 
 📫 Let’s Connect!
 
