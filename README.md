@@ -51,9 +51,10 @@ Data Science and AI
         Pandas, NumPy for data manipulation.
         Matplotlib, Seaborn for visualization.
 
-### 📈 GitHub Stats
 
 ### 📈 GitHub Stats
+
+![Richie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richie-harry&show_icons=true&theme=radical&count_private=true)
 
 ![Richie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richie-harry&show_icons=true&theme=radical)
 
