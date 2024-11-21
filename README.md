@@ -41,15 +41,6 @@ Data Science and AI
 
     Version control, CI/CD pipelines, and containerized applications.
 
-Data Science and AI
-
-    ML Tools:
-        scikit-learn: For predictive modeling.
-        TensorFlow: Deep learning.
-
-    Data Handling:
-        Pandas, NumPy for data manipulation.
-        Matplotlib, Seaborn for visualization.
 
 
 ### 📈 GitHub Stats
