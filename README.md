@@ -39,7 +39,6 @@ Data Science and AI
         Pandas, NumPy for data manipulation.
         Matplotlib, Seaborn for visualization.
 
-    Version control, CI/CD pipelines, and containerized applications.
 
 
 
@@ -48,8 +47,6 @@ Data Science and AI
 ![Richie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richie-harry&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=richie-harry)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 📫 Let’s Connect!
 
