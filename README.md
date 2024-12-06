@@ -45,6 +45,8 @@ Data Science and AI
 ## My Tech Stack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie-harry&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie-harry&count_private=true&show_icons=true&locale=en&layout=compact)
+
 
 
 
