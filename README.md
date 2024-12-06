@@ -42,6 +42,12 @@ Data Science and AI
         Matplotlib, Seaborn for visualization.
 
 
+## Tech Stack
+
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg)
+![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg)
+![React](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg)
+![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg)
 
 
 ### 📈 GitHub Stats
