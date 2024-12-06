@@ -56,7 +56,7 @@ Data Science and AI
 I’m actively seeking opportunities in full-stack development, ML/AI, and system programming. 
 email: ngatiarich@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?richie-harry=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/richie-harry)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 richie-harry/richie-harry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
