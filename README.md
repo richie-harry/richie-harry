@@ -46,6 +46,8 @@ Data Science and AI
 
 ### 📈 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richie-harry&show_icons=true&locale=en&layout=compact)
+
 ![Richie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richie-harry&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=richie-harry)](https://github.com/ryo-ma/github-profile-trophy)
