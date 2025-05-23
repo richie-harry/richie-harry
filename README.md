@@ -24,7 +24,9 @@ Frameworks and Libraries
         Node.js: For building scalable server-side applications.
         Express.js: RESTful APIs and middleware.
         Spring Framework: For enterprise-grade Java applications.
-        
+
+Mobile: Kotlin
+
 DevOps and ToolsDevOps and Tools
 
 
